@@ -1,0 +1,6 @@
+logs
+*.crt
+*.key
+*.csr
+*.srl
+*.pem
